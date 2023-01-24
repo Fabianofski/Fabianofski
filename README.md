@@ -3,7 +3,9 @@
 - 🏙 In my practical semesters i work at Bosch Siemens Hausgeräte GmbH
 - 🃏 You can play my games here: https://f4b1.itch.io 
 
-<!---
-Fabianofski/Fabianofski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![snake gif](https://github.com/Fabianofski/Fabianofski/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Fabianofski/count.svg" />
+</p>
