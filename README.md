@@ -12,6 +12,6 @@
 
 <h3 align="center">--📈--</h3>
 <p align="center"> 
-  Visitor count<br>
+  <b>VIEW COUNT</b><br>
   <img src="https://profile-counter.glitch.me/Fabianofski/count.svg" />
 </p>
