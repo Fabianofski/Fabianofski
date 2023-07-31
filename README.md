@@ -8,7 +8,7 @@
 
 <h3 align="center">--🐍--</h3>
 
-![snake gif](https://github.com/Fabianofski/Fabianofski/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/fabianofski/fabianofski/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/fabianofski/fabianofski/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <h3 align="center">--📈--</h3>
 <p align="center"> 
