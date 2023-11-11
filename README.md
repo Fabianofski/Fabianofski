@@ -9,9 +9,3 @@
 <h3 align="center">--🐍--</h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/fabianofski/fabianofski/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/fabianofski/fabianofski/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<h3 align="center">--📈--</h3>
-<p align="center"> 
-  <b>VIEW COUNT</b><br>
-  <img src="https://profile-counter.glitch.me/Fabianofski/count.svg" />
-</p>
