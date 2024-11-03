@@ -1,4 +1,4 @@
-<h3>Fabian Friedrich.<br/>Dual Student B.Sc. Computer Science @BSH</h3>
+<h3>Fabian Friedrich.<br/>Software Engineer @BSH</h3>
 <hr></hr>
 
 <div align="center">
